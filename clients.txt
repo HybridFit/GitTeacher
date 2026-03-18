@@ -12,10 +12,12 @@ James O'Brien        | General fitness               | Alex      | Mar 2026
 Priya Patel          | Post-injury rehab             | Dana      | Feb 2026
 Lars Andersson       | Strength competition prep     | Jordan    | Dec 2025
 Olivia Williams      | Flexibility & mobility        | Sam       | Mar 2026
+Ryan Cooper          | Weight loss (15 kg)           | Alex      | Mar 2026
+Aisha Khan           | Strength & conditioning       | Jordan    | Mar 2026
 
 NOTES:
 - Emma: Making great progress, down 3 kg so far
-- Marcus: Wants to focus on upper body this month
+- Marcus: Switching to full-body program this month (was upper body focus)
 - Sofia: Running 10K comfortably, increasing to half-marathon distance
 - James: Brand new member, needs fitness assessment
 - Priya: Cleared by physio for light lower body work
