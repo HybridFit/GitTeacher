@@ -38,13 +38,13 @@ MAIN WORKOUT
    Sets: 3 | Reps: 10 each leg | Rest: 60s
    Notes: Step far enough to keep front knee behind toes
 
-7. Plank Hold
-   Sets: 3 | Duration: 45-60 seconds | Rest: 45s
-   Notes: Straight line from head to heels
-
-8. Dumbbell Bicep Curls
+7. Dumbbell Bicep Curls
    Sets: 3 | Reps: 12 | Rest: 45s
    Notes: No swinging, controlled movement
+
+8. Plank Hold
+   Sets: 3 | Duration: 45-60 seconds | Rest: 45s
+   Notes: Straight line from head to heels
 
 9. Bulgarian Split Squats
    Sets: 3 | Reps: 10 each leg | Rest: 60s
