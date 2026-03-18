@@ -5,22 +5,22 @@ Hours: 06:00 - 21:00
 Last updated: March 2026
 
 MONDAY
-  07:00 - 08:00  Morning Bootcamp      (Coach Alex)
+  06:30 - 07:30  Early Bird Bootcamp    (Coach Alex)
   09:00 - 10:00  Yoga Flow              (Coach Sam)
   12:00 - 13:00  Lunchtime HIIT         (Coach Alex)
-  18:00 - 19:00  Strength Training      (Coach Jordan)
+  17:30 - 18:30  Strength Training      (Coach Jordan)
 
 TUESDAY
   07:00 - 08:00  Spin Class             (Coach Sam)
-  10:00 - 11:00  Pilates                (Coach Dana)
   12:00 - 13:00  Core Blast             (Coach Alex)
   19:00 - 20:00  Boxing Fitness         (Coach Jordan)
 
 WEDNESDAY
-  07:00 - 08:00  Morning Bootcamp      (Coach Alex)
+  06:30 - 07:30  Early Bird Bootcamp    (Coach Alex)
   09:00 - 10:00  Yoga Flow              (Coach Sam)
   12:00 - 13:00  Lunchtime HIIT         (Coach Alex)
   18:00 - 19:00  Functional Training    (Coach Jordan)
+  19:30 - 20:30  Kickboxing             (Coach Jordan)
 
 THURSDAY
   07:00 - 08:00  Spin Class             (Coach Sam)
@@ -37,6 +37,7 @@ FRIDAY
 SATURDAY
   09:00 - 10:30  Weekend Warriors       (Coach Alex + Jordan)
   11:00 - 12:00  Yoga Flow              (Coach Sam)
+  14:00 - 15:00  Open Gym Session       (Coach Alex)
 
 SUNDAY
   Closed — Rest day!
